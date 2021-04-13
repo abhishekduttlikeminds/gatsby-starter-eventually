@@ -18,7 +18,13 @@ var settings = {
 
 const PrivacyPage = () => (
 	<Layout>
-	<div>"Updated April 7, 2021 <br/> Privacy Policy for Breinto" </div>
+	<div style= "text-align: center">
+		Updated April 7, 2021 <br/> 
+		
+		Privacy Policy for Breinto 
+
+
+	</div>
 
     <SlideShow settings={settings} />
     </Layout>
