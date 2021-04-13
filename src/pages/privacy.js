@@ -17,7 +17,6 @@ var settings = {
 };
 
 const PrivacyPage = () => (
-  <Layout>
 	<div>
 	<div> "Updated April 7, 2021" </div>
 	</br>
@@ -148,7 +147,6 @@ const PrivacyPage = () => (
 
 	</div>
     <SlideShow settings={settings} />
-  </Layout>
 );
 
 export default PrivacyPage;
