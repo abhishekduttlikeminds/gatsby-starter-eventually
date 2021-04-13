@@ -17,6 +17,9 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
+        <li> <a href="https://breinto.com/privacy">Privacy Policy</a></li>
+      </ul>
+      <ul className="copyright">
         <li>&copy; Breinto.</li>
         <li>
           Credits: <a href="https://breinto.com/">Team Breinto</a>
