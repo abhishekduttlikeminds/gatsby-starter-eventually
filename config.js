@@ -11,7 +11,7 @@ module.exports = {
   // social
   heading: 'Breinto',
   subHeading:
-    "Bringing experts and investors together.",
+    "Creating financial opportunity for everyone.",
   socialLinks: [
     {
       icon: 'fa-twitter',
